@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kamil (student with crippling depression)
+- 👋 Hi, I’m Kamil (student with a crippling depression)
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning Computer Science and Artificial Inteligence
 
