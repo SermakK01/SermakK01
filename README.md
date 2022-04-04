@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kamil (student with a crippling depression)
-- 👀 I’m interested in nothing
+- 👋 Hi, I’m Kamil (ordinary Computer Science student)
+- 👀 I’m interested everything and nothing
 - 🌱 I’m currently learning Computer Science and Artificial Inteligence
 
 <!---
